@@ -14,7 +14,7 @@ const commands = {
 <strong>certifications - View my certifications</strong><br><br>
 
 • CompTIA Security+ (Udemy)<br>
-<img src="security-plus.png" alt="CompTIA Security+" style="width:200px; border-radius:10px;"><br><br>
+<img src="security--plus.jpg" alt="CompTIA Security+" style="width:200px; border-radius:10px;"><br><br>
 
 • SQL Injection (EC-Council)<br>
 <img src="sql-injection.png" alt="SQL Injection" style="width:200px; border-radius:10px;"><br><br>
