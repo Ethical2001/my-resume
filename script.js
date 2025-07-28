@@ -14,10 +14,10 @@ const commands = {
 <strong>certifications - View my certifications</strong><br><br>
 
 • CompTIA Security+ (Udemy)<br>
-<img src="images/security-plus.PNG" alt="CompTIA Security+" style="width:200px; border-radius:10px;"><br><br>
+<img src="images/security-plus.png" alt="CompTIA Security+" style="width:200px; border-radius:10px;"><br><br>
 
 • SQL Injection (EC-Council)<br>
-<img src="images//sql-injection.png" alt="SQL Injection" style="width:200px; border-radius:10px;"><br><br>
+<img src="images/sql-injection.png" alt="SQL Injection" style="width:200px; border-radius:10px;"><br><br>
 
 • 5th Position in CTF (Military College of Signals – MCS)<br>
 <img src="images/ctf-mcs.jpg" alt="CTF Certificate" style="width:200px; border-radius:10px;"><br><br>
